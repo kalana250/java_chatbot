@@ -1,0 +1,16 @@
+# Compiled files
+target/
+*.class
+*.jar
+
+# IDE files
+.idea/
+*.iml
+.vscode/
+
+# API Keys - NEVER COMMIT THIS!
+config.properties
+
+# OS files
+.DS_Store
+Thumbs.db
