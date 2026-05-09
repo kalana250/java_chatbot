@@ -1,40 +1,17 @@
 ```markdown
 # 🤖 AI Chatbot - Java Swing Application
 
-A modern, feature-rich AI chatbot application built with Java Swing and Groq's free AI API. Features a clean chat interface with real-time AI responses powered by LLaMA 3.3 70B.
+A modern, feature-rich AI chatbot application built with Java Swing and Groq's free AI API.
+Features a clean chat interface with real-time AI responses powered by LLaMA 3.3 70B.
 
 ![Java](https://img.shields.io/badge/Java-11+-orange.svg)
 ![Maven](https://img.shields.io/badge/Maven-3.6+-blue.svg)
 ![Groq](https://img.shields.io/badge/AI-Groq-purple.svg)
 ![License](https://img.shields.io/badge/License-MIT-green.svg)
 
-## 📸 Preview
-
 ```
-┌─────────────────────────────────────────────────────────────┐
-│  🤖 AI Chatbot Assistant              [Clear Chat]         │
-├─────────────────────────────────────────────────────────────┤
-│                                                             │
-│  🤖 AI Assistant  14:30                                    │
-│  ┌─────────────────────────────────────────┐              │
-│  │ Hello! I'm your AI assistant.           │              │
-│  │ How can I help you today?               │              │
-│  └─────────────────────────────────────────┘              │
-│                                                             │
-│                                    You  14:31              │
-│              ┌───────────────────────────────┐             │
-│              │ What is Java?                 │             │
-│              └───────────────────────────────┘             │
-│                                                             │
-│  🤖 AI Assistant  14:31                                    │
-│  ┌─────────────────────────────────────────┐              │
-│  │ Java is a popular programming           │              │
-│  │ language used for building...           │              │
-│  └─────────────────────────────────────────┘              │
-│                                                             │
-├─────────────────────────────────────────────────────────────┤
-│ Type your message here...                        [Send]    │
-└─────────────────────────────────────────────────────────────┘
+
+
 ```
 
 ## ✨ Features
